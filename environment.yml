@@ -1,0 +1,26 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - pillow
+  - opencv
+  - networkx
+  - pygraphviz>=1.5
+  - python-graphviz
+  - rise
+  - bokeh
+  - openpyxl
+  - pydot
+  - flask
+  - pip:
+    - anytree
